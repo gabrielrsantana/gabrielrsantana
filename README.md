@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gabriel Santana
 - 👀 I’m interested in ...Programming languages such as HTML, CSS,javaScript,Node.js , react, Python, Django, C#, etc
-- 🌱 I’m currently learning ...HTML, CSS, Javascript, Python
+- 🌱 I’m currently working with Angular and Java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...gabriel.rsantana@hotmail.com
                          instagram: @skydivergabriel
