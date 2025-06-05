@@ -1,9 +1,16 @@
-- 👋 Hi, I’m Gabriel Santana
-- 👀 I’m interested in ...Programming languages such as HTML, CSS,javaScript,Node.js , react, Python, Django, C#, etc
-- 🌱 I’m currently working with Angular and Java using Spring. CI/CD with Bamboo and SonarQube for code improvement. And Docker.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me gabriel.rsantana@hotmail.com
-                      instagram: @skydivergabriel
+👋 Hi, I’m Gabriel Santana
+
+👨‍💻 I’m passionate about software development and always exploring new technologies
+
+🧠 Currently working with Java (Spring) and Angular, focused on building scalable web applications
+
+🚀 Experience with DevOps practices, using Bamboo for CI/CD, SonarQube for code quality, and Docker for containerization
+
+🤝 Open to collaborating on projects related to Java, Angular, or DevOps
+
+📫 You can reach me at:
+📧 gabriel.rsantana@hotmail.com
+📸 Instagram: @skydivergabriel
 
 <!---
 gabrielrsantana/gabrielrsantana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
